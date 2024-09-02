@@ -3,6 +3,7 @@ module github.com/ashtishad/scrapper
 go 1.23.0
 
 require (
+	github.com/gocolly/colly v1.2.0
 	github.com/gocolly/colly/v2 v2.1.0
 	github.com/gorilla/websocket v1.5.3
 	golang.org/x/net v0.26.0
